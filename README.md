@@ -1,2 +1,0 @@
-# gafana
-gafana
